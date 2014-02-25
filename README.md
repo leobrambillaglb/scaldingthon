@@ -1,5 +1,4 @@
-scaldingthon
-============
+# scaldingthon #
 
 A quick start with Scalding.
 
@@ -25,7 +24,9 @@ The test phase went Ok, it took 5 minutes to run.
 
 SBT Eclipse plugin : https://github.com/typesafehub/sbteclipse
 
-Tried to use this Eclipse's plugin but I couldn't. Filed the following issue to see if someone can help me, https://github.com/typesafehub/sbteclipse/issues/198
+Tried to use this Eclipse's plugin but I couldn't. 
+Filed the following issue to see if someone can help me, https://github.com/typesafehub/sbteclipse/issues/198
+hey!, in few minutes I got an answer about my issue with the solution, amazing!.
 
 ----
 
